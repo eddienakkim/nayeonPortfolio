@@ -1,0 +1,79 @@
+#nav {
+    height: 80px;
+}
+
+.nav-item {
+    margin-left: 50px;
+}
+
+#cont {
+    padding-right: 50px;
+}
+
+
+.navbar-brand{
+    font-family: 'Playfair Display', serif;
+}
+
+#boxOne {
+    background-color: #595dff;
+    width: 100%;
+    height: 400px;
+    margin: 20% 0 0 0;
+    color: #ffda59;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#boxTwo{
+    background-color: #ff599b;
+    width: 100%;
+    height: 400px;
+    margin: 20% 0 0 0;
+    color: #595dff;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#boxThree{
+    background-color: #ffda59;
+    width: 100%;
+    height: 400px;
+    margin: 20% 0 0 0;
+    color: #ff599b;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    text-align: center;
+    padding: 30%;
+    margin: 40px 40px 20px -10px;
+    width: 100%;
+    height: 400px;
+}
+
+
+#boxThree h1{
+    margin-left: -50px;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+
+#boxOne:hover {
+    color: grey;
+    background-color: white;
+}
+#boxTwo:hover {
+    color: grey;
+    background-color: white;
+}
+#boxThree:hover {
+    color: grey;
+    background-color: white;
+}
