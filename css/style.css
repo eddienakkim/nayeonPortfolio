@@ -78,3 +78,17 @@ a:hover {
     color: grey;
     background-color: white;
 }
+
+a#designhome {
+    color: black;
+}
+
+h1.text-center {
+    padding: 2%;
+    margin-bottom: -19%;
+}
+
+
+#designrow {
+    margin-left: 30px;
+}
