@@ -18,7 +18,7 @@
 #boxOne {
     background-color: #595dff;
     width: 100%;
-    height: 400px;
+    height: auto;
     margin: 20% 0 0 0;
     color: #ffda59;
     font-family: 'Open Sans', sans-serif;
@@ -27,7 +27,7 @@
 #boxTwo{
     background-color: #ff599b;
     width: 100%;
-    height: 400px;
+    height: auto;
     margin: 20% 0 0 0;
     color: #595dff;
     font-family: 'Open Sans', sans-serif;
@@ -36,7 +36,7 @@
 #boxThree{
     background-color: #ffda59;
     width: 100%;
-    height: 400px;
+    height: auto;
     margin: 20% 0 0 0;
     color: #ff599b;
     font-family: 'Open Sans', sans-serif;
@@ -69,14 +69,23 @@ a:hover {
 #boxOne:hover {
     color: grey;
     background-color: white;
+    -webkit-transition: background-color 1000ms linear;
+    -ms-transition: background-color 1000ms linear;
+    transition: background-color 1000ms linear;
 }
 #boxTwo:hover {
     color: grey;
     background-color: white;
+    -webkit-transition: background-color 1000ms linear;
+    -ms-transition: background-color 1000ms linear;
+    transition: background-color 1000ms linear;
 }
 #boxThree:hover {
     color: grey;
     background-color: white;
+    -webkit-transition: background-color 1000ms linear;
+    -ms-transition: background-color 1000ms linear;
+    transition: background-color 1000ms linear;
 }
 
 a#designhome {
