@@ -45,9 +45,16 @@
 h1 {
     text-align: center;
     padding: 30%;
-    /* margin: 40px 40px 20px -10px; */
     width: 100%;
-    /* height: 400px; */
+    align-items: center;
+    display: flex;
+    height: 100%;
+    justify-content: center;
+    width: 100%;
+    left: 0;
+    top: 0;
+    z-index: 1;
+    
 }
 
 
@@ -94,10 +101,7 @@ a#designhome {
 
 h1.text-center {
     padding: 2%;
-    margin-bottom: -19%;
+    margin-bottom: 2%;
 }
 
 
-#designrow {
-    margin-left: 30px;
-}
