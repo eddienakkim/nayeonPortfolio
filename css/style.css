@@ -45,14 +45,14 @@
 h1 {
     text-align: center;
     padding: 30%;
-    margin: 40px 40px 20px -10px;
+    /* margin: 40px 40px 20px -10px; */
     width: 100%;
-    height: 400px;
+    /* height: 400px; */
 }
 
 
 #boxThree h1{
-    margin-left: -50px;
+    margin-left: px;
 }
 
 a {
